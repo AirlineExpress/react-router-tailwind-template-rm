@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Install Dependencies
+
+In the project terminal, run:
+
+### `npm install npm react-router-dom`
+
+To Update to latest version, run:
+
+### `npm install react-scripts@latest`
+
 ## Available Scripts
 
 In the project directory, you can run:
